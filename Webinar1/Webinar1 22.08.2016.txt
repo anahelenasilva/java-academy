@@ -1,0 +1,30 @@
+Java Academy - Webinar 22/08/2016
+- No final do curso, será disponibilizado um formulário de presença
+
+Java SE (Standard Edition versão atual é a 8)
+	- Base do Java
+	- Bibliotecas comuns
+	- Aplicações Desktop
+	
+Java EE (Enterprise Edition versão atual 7)
+	- Aplicações para internet
+	- Contém Java SE
+	
+Java ME (Micro Edition versão atual 8.3)
+	- Aplicações para dispositivos limitados (celulares antigos)
+	- Contém um subconjunto do Java SE
+	- Não está mais presente no android
+	
+JRE (Java Runtime Envirtonment)
+	- Bibliotecas do Java SE + JVM (Java Virtual Machine)
+	- Usado na execução de programas Java
+	
+JDK (Java Development Kit)
+	- JRE + Ferramentas de Desenvolvimento (javac: compilação; javadoc)
+	
+
+long y = 5345345345534L; => fala que o número é um long
+
+
+Jogo da Forca
+- Criar classes Dicionario, Palavra, Jogo (com o método void iniciar())
